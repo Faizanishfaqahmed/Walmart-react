@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "caption":"hero",
+        "image":"./Images/Heroimage.jpg"
+
+    },
+    {
+    "id":2,
+    "caption":"Skirt",
+    "image":"./images/skirt.jpg"
+
+    },
+    {
+"id":3,
+"caption":"make up",
+"image":"./Images/makeup.jpg"
+    }
+]

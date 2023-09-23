@@ -1,0 +1,33 @@
+[
+    {"image":"image2/Halloween.jpg",
+    "title":"Halloween prep",
+    "uptitle": "Get in the sprit",
+    "subtitle":""
+},
+{
+    "image":"image2/spooky.jpg",
+    "title":"Spooky indoor decor",
+    "uptitle": "Shop now",
+    "subtitle":"Shop now"
+},
+{
+    "image":"image2/Reeses.jpg",
+    "title":"Big bags under $10",
+    "uptitle": "Shop candy",
+    "subtitle":"Shop candy"
+},
+{
+    "image":"image2/AdultCostume.jpg",
+    "title":"Adult Costumes from $10",
+    "uptitle": "Shop now",
+    "subtitle":"Shop now"
+},
+{
+    "image":"image2/takehunt.jpg",
+    "title":"Adult Costumes from $10",
+    "uptitle": "Shop now",
+    "subtitle":"Shop now"
+}
+
+
+]

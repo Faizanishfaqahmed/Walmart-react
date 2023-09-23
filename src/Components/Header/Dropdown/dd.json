@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "desc":"Shipping",
+        "image":"/images/assets/images/shipping.jpg"
+    },
+    {
+        "id":2,
+        "desc":"Pickup",
+        "image":"./assets/images/Pickup.png"
+    },
+    {
+        "id":3,
+        "desc":"Delivery",
+        "image":"./assets/images/Dilivery.png"
+    }
+]
